@@ -1,0 +1,9 @@
+{
+    "compileOptions":{
+        "module": "umd",
+        "target": "es6",
+    },
+    "exclude": [
+        "node_module"
+    ]
+}
