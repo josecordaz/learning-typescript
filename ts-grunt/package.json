@@ -1,0 +1,16 @@
+{
+  "name": "ts3",
+  "version": "1.0.0",
+  "description": "Learning TypeScript 3",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "josecordaz@gmail.com",
+  "license": "MIT",
+  "devDependencies": {
+    "grunt": "^1.0.3",
+    "grunt-ts": "^6.0.0-beta.21",
+    "typescript": "^3.2.4"
+  }
+}
